@@ -1,0 +1,11 @@
+{
+	"name": "Query Tree",
+	"short_name": "Query Tree",
+	"version": "latest",
+	"description": "Ad-hoc reporting tool",
+    "short_description": "Ad-hoc reporting tool",
+	"catalogue_url": "",
+	"application_url": "hhttp://querytreeapp.com",
+	"tags": ["Database", "Visualization"],
+	"application_documentation_url": "https://github.com/d4software/QueryTree"
+}

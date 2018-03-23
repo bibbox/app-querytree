@@ -1,0 +1,4 @@
+{
+  runningcontainers:["§§INSTANCE-adminer"],
+  supportcontainers:["§§INSTANCE-adminer-data"]    
+}

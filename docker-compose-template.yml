@@ -1,0 +1,15 @@
+version: '2'
+
+networks:
+    bibbox-default-network:
+      external: true
+
+services:
+  §§INSTANCE-querytree:
+    image: d4software/querytree:latest
+    container_name:  §§INSTANCE-querytree
+    restart: unless-stopped
+    networks:
+      - bibbox-default-network
+    ports:
+      - "§§PORT:80"
